@@ -1,0 +1,222 @@
+aba,coluna,tipo_pandas,definicao
+anuais,ano,int64,Ano da observação.
+anuais,series,int64,series
+anuais,series_vencidas,int64,series vencidas
+anuais,series_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+anuais,mapas,int64,mapas
+anuais,mapas_vencidos,int64,mapas vencidos
+anuais,map_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+anuais,rounds_furia,int64,rounds furia
+anuais,rounds_adversario,int64,rounds adversario
+anuais,round_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+anuais,rounds_ct,int64,rounds ct
+anuais,rounds_ganhos_ct,int64,rounds ganhos ct
+anuais,rounds_tr,int64,rounds tr
+anuais,rounds_ganhos_tr,int64,rounds ganhos tr
+anuais,ct_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+anuais,tr_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+anuais,pistols,int64,pistols
+anuais,pistols_ganhos,int64,pistols ganhos
+anuais,pistol_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+anuais,kills,int64,"Abates, sem ajuste econômico."
+anuais,deaths,int64,"Mortes, sem ajuste econômico."
+anuais,assists,int64,Assistências conforme A na HLTV.
+adversarios,adversario,object,adversario
+adversarios,series,int64,series
+adversarios,series_vencidas,int64,series vencidas
+adversarios,series_perdidas,int64,series perdidas
+adversarios,series_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+adversarios,mapas,int64,mapas
+adversarios,mapas_vencidos,int64,mapas vencidos
+adversarios,mapas_perdidos,int64,mapas perdidos
+adversarios,map_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+adversarios,rounds_furia,int64,rounds furia
+adversarios,rounds_adversario,int64,rounds adversario
+adversarios,round_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+adversarios,saldo_rounds,int64,saldo rounds
+adversarios,diferenca_media_rounds,float64,diferenca media rounds
+adversarios,wilson95_inferior_series,float64,wilson95 inferior series
+adversarios,wilson95_superior_series,float64,wilson95 superior series
+adversarios,amostra_minima_5_series,int64,1: ao menos 5 séries contra esse adversário.
+jogadores_resumo,periodo,object,periodo
+jogadores_resumo,jogador,object,Nickname publicado.
+jogadores_resumo,mapas,int64,mapas
+jogadores_resumo,rounds,int64,rounds
+jogadores_resumo,kills,int64,"Abates, sem ajuste econômico."
+jogadores_resumo,deaths,int64,"Mortes, sem ajuste econômico."
+jogadores_resumo,assists,int64,Assistências conforme A na HLTV.
+jogadores_resumo,kd_diff,int64,kd diff
+jogadores_resumo,kd_ratio,float64,kd ratio
+jogadores_resumo,kda_ratio,float64,kda ratio
+jogadores_resumo,headshots,int64,"Abates por headshot, parênteses em K(hs)."
+jogadores_resumo,headshot_rate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+jogadores_resumo,flash_assists,int64,flash assists
+jogadores_resumo,opening_kills,int64,Primeiros abates em rounds.
+jogadores_resumo,opening_deaths,int64,Primeiras mortes em rounds.
+jogadores_resumo,clutches,int64,Coluna 1vsX: clutches vencidos.
+jogadores_resumo,adr_ponderado_rounds,float64,adr ponderado rounds
+jogadores_resumo,kast_ponderado_rounds,float64,kast ponderado rounds
+jogadores_resumo,rating_media_mapas,float64,rating media mapas
+jogadores_resumo,kpr,float64,kpr
+jogadores_resumo,dpr,float64,dpr
+jogadores_resumo,apr,float64,apr
+mapas_anuais,ano,int64,Ano da observação.
+mapas_anuais,mapa,object,mapa
+mapas_anuais,mapas,int64,mapas
+mapas_anuais,rounds_total,int64,rounds total
+mapas_anuais,rounds_ganhos,int64,rounds ganhos
+mapas_anuais,pistols,int64,pistols
+mapas_anuais,pistols_ganhos,int64,pistols ganhos
+mapas_anuais,pistol_winrate_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,ct_winrate_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,tr_winrate_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,pick_rate_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,ban_rate_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,map_winrate_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,fonte_url,object,Página HLTV que origina a observação.
+mapas_anuais,vitorias,int64,vitorias
+mapas_anuais,empates,int64,empates
+mapas_anuais,derrotas,int64,derrotas
+mapas_anuais,round_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+mapas_anuais,round_winrate_apos_firstkill_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,round_winrate_apos_firstdeath_hltv,float64,Valor agregado publicado pela HLTV; preservar precisão original.
+mapas_anuais,rounds_ct,int64,rounds ct
+mapas_anuais,rounds_tr,int64,rounds tr
+mapas_anuais,rounds_ganhos_ct,int64,rounds ganhos ct
+mapas_anuais,rounds_ganhos_tr,int64,rounds ganhos tr
+mensal,mes,object,mes
+mensal,mapas,int64,mapas
+mensal,vitorias,int64,vitorias
+mensal,rounds_furia,int64,rounds furia
+mensal,rounds_adversario,int64,rounds adversario
+mensal,derrotas,int64,derrotas
+mensal,map_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+mensal,round_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+eventos,evento,object,evento
+eventos,mapas,int64,mapas
+eventos,vitorias,int64,vitorias
+eventos,rounds_furia,int64,rounds furia
+eventos,rounds_adversario,int64,rounds adversario
+eventos,derrotas,int64,derrotas
+eventos,map_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+eventos,round_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+vetos_resumo,equipe,object,FURIA ou equipe adversária.
+vetos_resumo,mapa,object,mapa
+vetos_resumo,acao,object,"pick, ban ou decider."
+vetos_resumo,quantidade,int64,quantidade
+partidas,match_id,int64,Identificador HLTV da série/partida.
+partidas,data,object,Data ISO no CSV; data numérica no Excel.
+partidas,ano,int64,Ano da observação.
+partidas,evento,object,evento
+partidas,adversario,object,adversario
+partidas,formato_bo,int64,formato bo
+partidas,lan,int64,1: LAN; 0: online.
+partidas,mapas_furia,int64,mapas furia
+partidas,mapas_adversario,int64,mapas adversario
+partidas,mapas_jogados,int64,mapas jogados
+partidas,vitoria,int64,1: vitória da FURIA; 0: derrota.
+partidas,vetos_coletados,int64,vetos coletados
+partidas,descricao,object,descricao
+partidas,fonte_url,object,Página HLTV que origina a observação.
+mapas_jogados,mapstats_id,int64,Identificador HLTV de mapa com estatísticas; chave para joins.
+mapas_jogados,match_id,int64,Identificador HLTV da série/partida.
+mapas_jogados,data,object,Data ISO no CSV; data numérica no Excel.
+mapas_jogados,ano,int64,Ano da observação.
+mapas_jogados,evento,object,evento
+mapas_jogados,adversario,object,adversario
+mapas_jogados,mapa,object,mapa
+mapas_jogados,formato_bo,int64,formato bo
+mapas_jogados,lan,int64,1: LAN; 0: online.
+mapas_jogados,rounds_furia,int64,rounds furia
+mapas_jogados,rounds_adversario,int64,rounds adversario
+mapas_jogados,rounds_total,int64,rounds total
+mapas_jogados,vitoria,int64,1: vitória da FURIA; 0: derrota.
+mapas_jogados,round_winrate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+mapas_jogados,overtime,int64,overtime
+mapas_jogados,tipo_escolha,object,pick ou decider para o mapa jogado.
+mapas_jogados,equipe_pick,object,equipe pick
+mapas_jogados,rating_furia,float64,rating furia
+mapas_jogados,opening_kills_furia,int64,opening kills furia
+mapas_jogados,clutches_furia,int64,clutches furia
+mapas_jogados,rounds_ct,int64,rounds ct
+mapas_jogados,rounds_tr,int64,rounds tr
+mapas_jogados,metodo_rounds_lado,object,metodo rounds lado
+mapas_jogados,fonte_url,object,Página HLTV que origina a observação.
+jogadores_mapas,mapstats_id,int64,Identificador HLTV de mapa com estatísticas; chave para joins.
+jogadores_mapas,match_id,int64,Identificador HLTV da série/partida.
+jogadores_mapas,data,object,Data ISO no CSV; data numérica no Excel.
+jogadores_mapas,ano,int64,Ano da observação.
+jogadores_mapas,adversario,object,adversario
+jogadores_mapas,mapa,object,mapa
+jogadores_mapas,equipe,object,FURIA ou equipe adversária.
+jogadores_mapas,jogador,object,Nickname publicado.
+jogadores_mapas,lado,object,"TOTAL, CT ou TR. Ordem de tabelas validada contra a consulta CT oficial."
+jogadores_mapas,rounds_mapa,int64,rounds mapa
+jogadores_mapas,rounds_lado,int64,Denominador reconstruído apenas quando único. Para TOTAL = rounds_mapa.
+jogadores_mapas,kills,int64,"Abates, sem ajuste econômico."
+jogadores_mapas,deaths,int64,"Mortes, sem ajuste econômico."
+jogadores_mapas,assists,int64,Assistências conforme A na HLTV.
+jogadores_mapas,kd_diff,int64,kd diff
+jogadores_mapas,kd_ratio,float64,kd ratio
+jogadores_mapas,kda_ratio,float64,kda ratio
+jogadores_mapas,headshots,int64,"Abates por headshot, parênteses em K(hs)."
+jogadores_mapas,headshot_rate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+jogadores_mapas,flash_assists,int64,flash assists
+jogadores_mapas,traded_deaths,int64,"Mortes trocadas, parênteses em D(t)."
+jogadores_mapas,opening_kills,int64,Primeiros abates em rounds.
+jogadores_mapas,opening_deaths,int64,Primeiras mortes em rounds.
+jogadores_mapas,multikill_rounds,float64,Coluna MKs publicada pela HLTV.
+jogadores_mapas,clutches,float64,Coluna 1vsX: clutches vencidos.
+jogadores_mapas,adr,float64,Dano médio por round publicado.
+jogadores_mapas,kast,float64,"Fração de rounds com kill, assistência, sobrevivência ou trade."
+jogadores_mapas,round_swing,float64,"Impacto médio sobre probabilidade de vitória, como fração."
+jogadores_mapas,rating,float64,Rating publicado para jogador e mapa.
+jogadores_mapas,rating_versao,object,rating versao
+jogadores_mapas,fonte_url,object,Página HLTV que origina a observação.
+jogadores_lados,mapstats_id,int64,Identificador HLTV de mapa com estatísticas; chave para joins.
+jogadores_lados,match_id,int64,Identificador HLTV da série/partida.
+jogadores_lados,data,object,Data ISO no CSV; data numérica no Excel.
+jogadores_lados,ano,int64,Ano da observação.
+jogadores_lados,adversario,object,adversario
+jogadores_lados,mapa,object,mapa
+jogadores_lados,equipe,object,FURIA ou equipe adversária.
+jogadores_lados,jogador,object,Nickname publicado.
+jogadores_lados,lado,object,"TOTAL, CT ou TR. Ordem de tabelas validada contra a consulta CT oficial."
+jogadores_lados,rounds_mapa,int64,rounds mapa
+jogadores_lados,rounds_lado,int64,Denominador reconstruído apenas quando único. Para TOTAL = rounds_mapa.
+jogadores_lados,kills,int64,"Abates, sem ajuste econômico."
+jogadores_lados,deaths,int64,"Mortes, sem ajuste econômico."
+jogadores_lados,assists,int64,Assistências conforme A na HLTV.
+jogadores_lados,kd_diff,int64,kd diff
+jogadores_lados,kd_ratio,float64,kd ratio
+jogadores_lados,kda_ratio,float64,kda ratio
+jogadores_lados,headshots,int64,"Abates por headshot, parênteses em K(hs)."
+jogadores_lados,headshot_rate,float64,Taxa numérica de 0 a 1; denominador definido pelo nome da coluna.
+jogadores_lados,flash_assists,int64,flash assists
+jogadores_lados,traded_deaths,int64,"Mortes trocadas, parênteses em D(t)."
+jogadores_lados,opening_kills,int64,Primeiros abates em rounds.
+jogadores_lados,opening_deaths,int64,Primeiras mortes em rounds.
+jogadores_lados,multikill_rounds,float64,Coluna MKs publicada pela HLTV.
+jogadores_lados,clutches,float64,Coluna 1vsX: clutches vencidos.
+jogadores_lados,adr,float64,Dano médio por round publicado.
+jogadores_lados,kast,float64,"Fração de rounds com kill, assistência, sobrevivência ou trade."
+jogadores_lados,round_swing,float64,"Impacto médio sobre probabilidade de vitória, como fração."
+jogadores_lados,rating,float64,Rating publicado para jogador e mapa.
+jogadores_lados,rating_versao,object,rating versao
+jogadores_lados,fonte_url,object,Página HLTV que origina a observação.
+vetos,match_id,int64,Identificador HLTV da série/partida.
+vetos,ordem,int64,Posição da ação no veto.
+vetos,equipe,object,FURIA ou equipe adversária.
+vetos,acao,object,"pick, ban ou decider."
+vetos,mapa,object,mapa
+vetos,texto_original,object,texto original
+vetos,fonte_url,object,Página HLTV que origina a observação.
+conferencia,ano,int64,Ano da observação.
+conferencia,controle,object,controle
+conferencia,esperado_hltv,int64,Valor agregado publicado pela HLTV; preservar precisão original.
+conferencia,observado,int64,observado
+conferencia,diferenca,int64,diferenca
+conferencia,resultado,object,resultado
+conferencia,fonte_url,object,Página HLTV que origina a observação.
+metodologia,item,object,item
+metodologia,descricao,object,descricao

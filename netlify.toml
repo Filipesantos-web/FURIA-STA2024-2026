@@ -1,0 +1,7 @@
+[build]
+  publish = "dist"
+
+[[headers]]
+  for = "/config.js"
+  [headers.values]
+    Cache-Control = "no-cache"

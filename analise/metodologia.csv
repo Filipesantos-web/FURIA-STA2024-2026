@@ -1,0 +1,22 @@
+item,descricao
+periodo,01/01/2024 a 09/10/2026; último mapa concluído na fonte: 2026-10-07
+populacao,"FURIA masculina, equipe HLTV 8297. Inclui jogadores históricos e todos os adversários dos mapas."
+series_e_mapas,"243 séries e 553 mapas com estatísticas. Não equivale a auditar partidas sem estatísticas, W/O ou jogos cancelados no Results."
+unidade,jogadores_mapas: jogador × mapa × equipe. jogadores_lados: jogador × mapa × equipe × lado. Não somar TOTAL com CT/TR.
+kda_ratio,"(kills + assists) / deaths. kd_ratio = kills / deaths. Divisão por zero fica vazia, nunca zero artificial."
+assistencias,assists é a coluna A da HLTV; flash_assists é o valor entre parênteses em A(f). Não somar ambos.
+percentuais,Taxas numéricas no intervalo 0–1. A exibição em Excel é percentual; no pandas 0.55 significa 55%.
+ratings,"Preservar rating_versao. rating_media_mapas é média aritmética dos ratings de mapas, não o rating agregado oficial da HLTV."
+agregacoes,"Winrate de rounds = soma(rounds ganhos) / soma(rounds jogados), e não média simples das taxas dos mapas."
+adr_kast,Médias ponderadas usam os valores publicados e arredondados pela HLTV. Pequenas diferenças de arredondamento são esperadas.
+rounds_lado,"Reconstrução por KAST arredondado, mortes e opening kills, somente com solução inteira única. Validar contra contagem por lado publicada."
+vitorias_lado,"Em mapas_anuais, os rounds ganhos CT/TR são reconstruídos da taxa HLTV arredondada e do denominador exato, somente com solução inteira única."
+picks_bans,"pick_rate_hltv e ban_rate_hltv são taxas publicadas por mapa, com elegibilidade variável. Não representam divisão simples pelo total de séries."
+vetos,"1701 ações em ordem, 7 por série. Decider não é pick. Em BO1 o único mapa é decider."
+adversarios,"Ordenação por series_winrate, depois round_winrate. Critério amostra_minima_5_series evita destacar confronto de uma única série."
+wilson,Intervalo de Wilson 95% para taxa de vitória em séries. Não é medida de dificuldade intrínseca nem prova causal.
+2026,"Consultas anuais da HLTV usam endDate=2026-12-31, mas foram coletadas em 09/10/2026. Nenhum registro futuro foi incluído."
+escopo_nao_coletado,"Demos, VODs, heatmaps, posições/coordenadas, estatísticas de armas, clutches por tamanho, economia e ranking histórico não foram extraídos."
+reprodutibilidade,CSV UTF-8 e notebook no pacote auxiliar. Fontes por linha; arquivos JSON estruturados e scripts de tratamento preservam a coleta.
+ausentes,Células vazias = dado não determinado ou não aplicável. Nunca substituir automaticamente por zero.
+fonte,https://www.hltv.org/stats/teams/8297/furia

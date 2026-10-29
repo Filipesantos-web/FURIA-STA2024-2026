@@ -1,0 +1,435 @@
+equipe,mapa,acao,quantidade
+1win,Dust2,ban,1
+1win,Mirage,pick,1
+1win,Nuke,ban,1
+3DMAX,Anubis,ban,1
+3DMAX,Dust2,pick,1
+3DMAX,Mirage,ban,2
+3DMAX,Nuke,pick,1
+3DMAX,Overpass,ban,1
+9 Pandas,Anubis,ban,1
+9 Pandas,Dust2,pick,2
+9 Pandas,Inferno,ban,1
+9 Pandas,Vertigo,ban,2
+9INE,Anubis,pick,1
+9INE,Mirage,ban,1
+9INE,Nuke,ban,1
+9z,Ancient,ban,1
+9z,Ancient,pick,1
+9z,Anubis,ban,3
+9z,Anubis,pick,1
+9z,Cache,ban,1
+9z,Dust2,pick,2
+9z,Inferno,ban,3
+9z,Mirage,ban,1
+9z,Nuke,ban,1
+9z,Nuke,pick,2
+9z,Overpass,ban,1
+9z,Vertigo,ban,4
+ATOX,Inferno,pick,1
+ATOX,Mirage,ban,1
+ATOX,Vertigo,ban,1
+Apeks,Inferno,pick,1
+Apeks,Nuke,ban,1
+Apeks,Overpass,ban,1
+Astralis,Anubis,ban,3
+Astralis,Dust2,ban,2
+Astralis,Inferno,pick,2
+Astralis,Mirage,ban,2
+Astralis,Nuke,pick,3
+Astralis,Overpass,ban,2
+Astralis,Overpass,pick,1
+Astralis,Train,ban,3
+Aurora,Ancient,ban,4
+Aurora,Ancient,pick,1
+Aurora,Anubis,ban,1
+Aurora,Anubis,pick,1
+Aurora,Cache,ban,1
+Aurora,Dust2,ban,1
+Aurora,Dust2,pick,5
+Aurora,Inferno,ban,2
+Aurora,Inferno,pick,1
+Aurora,Mirage,ban,2
+Aurora,Mirage,pick,1
+Aurora,Nuke,ban,5
+Aurora,Overpass,ban,2
+Aurora,Train,ban,4
+Aurora,Train,pick,1
+Aurora,Vertigo,ban,1
+B8,Anubis,ban,3
+B8,Inferno,ban,1
+B8,Mirage,pick,5
+B8,Nuke,ban,3
+B8,Overpass,ban,2
+B8,Train,ban,1
+BETBOOM,Dust2,ban,2
+BETBOOM,Dust2,pick,1
+BETBOOM,Inferno,ban,4
+BETBOOM,Mirage,ban,1
+BETBOOM,Mirage,pick,2
+BETBOOM,Nuke,ban,1
+BETBOOM,Vertigo,ban,1
+BIG,Anubis,ban,1
+BIG,Inferno,ban,1
+BIG,Inferno,pick,1
+BIG,Mirage,ban,1
+BIG,Mirage,pick,1
+BIG,Nuke,ban,2
+BIG,Train,ban,1
+BIG,Vertigo,ban,1
+BOSS,Dust2,ban,1
+BOSS,Inferno,ban,1
+BOSS,Nuke,ban,1
+Bad News Kangaroos,Ancient,ban,1
+Bad News Kangaroos,Inferno,pick,1
+Bad News Kangaroos,Overpass,ban,1
+Betclic,Inferno,ban,1
+Betclic,Mirage,pick,1
+Betclic,Train,ban,1
+Case,Anubis,ban,1
+Case,Inferno,ban,1
+Case,Nuke,ban,1
+Complexity,Ancient,ban,1
+Complexity,Dust2,ban,1
+Complexity,Mirage,ban,3
+Complexity,Nuke,ban,2
+Complexity,Overpass,pick,1
+Complexity,Train,pick,1
+DENDELE,Anubis,pick,1
+DENDELE,Dust2,ban,1
+DENDELE,Inferno,ban,1
+ECSTATIC,Inferno,pick,1
+ECSTATIC,Mirage,ban,1
+ECSTATIC,Vertigo,ban,1
+ENCE,Ancient,pick,1
+ENCE,Inferno,ban,2
+ENCE,Nuke,pick,1
+ENCE,Overpass,ban,2
+Eternal Fire,Ancient,ban,3
+Eternal Fire,Inferno,ban,2
+Eternal Fire,Mirage,ban,1
+Eternal Fire,Nuke,ban,2
+Eternal Fire,Vertigo,pick,1
+FORZE,Inferno,ban,1
+FORZE,Nuke,pick,1
+FORZE,Vertigo,ban,1
+FURIA,Ancient,ban,182
+FURIA,Ancient,pick,3
+FURIA,Anubis,ban,107
+FURIA,Anubis,pick,10
+FURIA,Cache,ban,6
+FURIA,Cache,pick,7
+FURIA,Dust2,ban,40
+FURIA,Dust2,pick,40
+FURIA,Inferno,ban,53
+FURIA,Inferno,pick,32
+FURIA,Mirage,ban,48
+FURIA,Mirage,pick,32
+FURIA,Nuke,ban,40
+FURIA,Nuke,pick,35
+FURIA,Overpass,ban,15
+FURIA,Overpass,pick,28
+FURIA,Train,ban,10
+FURIA,Train,pick,17
+FURIA,Vertigo,ban,18
+FURIA,Vertigo,pick,6
+FUT,Ancient,pick,1
+FUT,Anubis,pick,1
+FUT,Cache,ban,1
+FUT,Inferno,ban,4
+FUT,Mirage,pick,2
+FUT,Nuke,ban,2
+FUT,Overpass,ban,1
+FaZe,Anubis,ban,1
+FaZe,Dust2,pick,1
+FaZe,Inferno,ban,2
+FaZe,Inferno,pick,1
+FaZe,Mirage,ban,1
+FaZe,Nuke,ban,1
+FaZe,Overpass,ban,2
+FaZe,Vertigo,ban,3
+Falcons,Anubis,ban,1
+Falcons,Anubis,pick,2
+Falcons,Dust2,pick,1
+Falcons,Inferno,ban,7
+Falcons,Mirage,ban,1
+Falcons,Mirage,pick,8
+Falcons,Nuke,ban,1
+Falcons,Nuke,pick,2
+Falcons,Overpass,ban,9
+Falcons,Train,ban,1
+Fluxo,Dust2,ban,1
+Fluxo,Inferno,pick,1
+Fluxo,Train,ban,1
+FlyQuest,Dust2,ban,1
+FlyQuest,Inferno,pick,1
+FlyQuest,Mirage,ban,1
+FlyQuest,Overpass,ban,1
+FlyQuest,Train,ban,1
+FlyQuest,Vertigo,ban,1
+G2,Ancient,ban,1
+G2,Ancient,pick,2
+G2,Cache,ban,1
+G2,Inferno,pick,5
+G2,Mirage,ban,3
+G2,Nuke,ban,9
+G2,Overpass,ban,3
+G2,Train,ban,4
+G2,Train,pick,2
+GUN5,Dust2,pick,1
+GUN5,Inferno,ban,1
+GUN5,Vertigo,ban,1
+GamerLegion,Anubis,ban,1
+GamerLegion,Cache,pick,1
+GamerLegion,Dust2,ban,4
+GamerLegion,Inferno,ban,2
+GamerLegion,Inferno,pick,1
+GamerLegion,Mirage,pick,2
+GamerLegion,Nuke,ban,2
+GamerLegion,Overpass,ban,1
+GamerLegion,Train,ban,1
+Gentle Mates,Dust2,ban,1
+Gentle Mates,Mirage,ban,1
+Gentle Mates,Nuke,pick,1
+HEROIC,Ancient,pick,1
+HEROIC,Anubis,ban,3
+HEROIC,Dust2,ban,1
+HEROIC,Dust2,pick,1
+HEROIC,Inferno,ban,2
+HEROIC,Mirage,ban,1
+HEROIC,Mirage,pick,3
+HEROIC,Overpass,ban,2
+HEROIC,Vertigo,ban,1
+HOTU,Inferno,ban,1
+HOTU,Overpass,pick,1
+HOTU,Train,ban,1
+Imperial,Ancient,ban,2
+Imperial,Dust2,pick,1
+Imperial,Inferno,ban,3
+Imperial,Nuke,ban,2
+Imperial,Nuke,pick,1
+Imperial,Train,ban,1
+Imperial,Vertigo,ban,2
+Imperial Valkyries,Anubis,ban,1
+Imperial Valkyries,Mirage,pick,1
+Imperial Valkyries,Nuke,ban,1
+Inner Circle,Inferno,ban,1
+Inner Circle,Mirage,pick,1
+Inner Circle,Train,ban,1
+KOI,Ancient,ban,1
+KOI,Mirage,ban,1
+KOI,Vertigo,pick,1
+Legacy,Ancient,pick,2
+Legacy,Anubis,ban,2
+Legacy,Cache,ban,1
+Legacy,Dust2,ban,2
+Legacy,Dust2,pick,1
+Legacy,Inferno,pick,1
+Legacy,Mirage,ban,1
+Legacy,Nuke,ban,3
+Legacy,Overpass,ban,2
+Legacy,Train,ban,1
+Legacy,Vertigo,ban,2
+Liquid,Anubis,ban,1
+Liquid,Anubis,pick,3
+Liquid,Dust2,ban,1
+Liquid,Dust2,pick,2
+Liquid,Inferno,ban,1
+Liquid,Inferno,pick,1
+Liquid,Mirage,ban,3
+Liquid,Mirage,pick,1
+Liquid,Nuke,ban,3
+Liquid,Overpass,ban,4
+Liquid,Train,ban,1
+Liquid,Vertigo,ban,6
+Lynn Vision,Anubis,pick,1
+Lynn Vision,Dust2,pick,2
+Lynn Vision,Inferno,ban,3
+Lynn Vision,Mirage,ban,6
+Lynn Vision,Overpass,ban,1
+Lynn Vision,Train,ban,3
+Lynn Vision,Vertigo,ban,2
+M80,Anubis,ban,1
+M80,Anubis,pick,1
+M80,Cache,pick,1
+M80,Dust2,ban,1
+M80,Dust2,pick,1
+M80,Inferno,ban,2
+M80,Mirage,ban,1
+M80,Mirage,pick,1
+M80,Nuke,ban,6
+M80,Overpass,pick,1
+M80,Train,ban,2
+MIBR,Anubis,pick,2
+MIBR,Cache,ban,1
+MIBR,Dust2,ban,6
+MIBR,Inferno,ban,1
+MIBR,Inferno,pick,1
+MIBR,Mirage,ban,2
+MIBR,Mirage,pick,1
+MIBR,Nuke,ban,1
+MIBR,Nuke,pick,1
+MIBR,Overpass,ban,1
+MIBR,Train,ban,2
+MIBR,Train,pick,1
+MIBR,Vertigo,pick,1
+MOUZ,Ancient,ban,1
+MOUZ,Anubis,ban,9
+MOUZ,Dust2,ban,6
+MOUZ,Inferno,ban,2
+MOUZ,Inferno,pick,2
+MOUZ,Mirage,ban,1
+MOUZ,Mirage,pick,8
+MOUZ,Nuke,ban,2
+MOUZ,Nuke,pick,1
+MOUZ,Overpass,ban,3
+MOUZ,Vertigo,pick,1
+MOUZ NXT,Ancient,ban,1
+MOUZ NXT,Mirage,ban,1
+MOUZ NXT,Vertigo,pick,1
+Metizport,Ancient,ban,1
+Metizport,Inferno,ban,2
+Metizport,Nuke,ban,3
+Metizport,Overpass,ban,2
+Metizport,Vertigo,pick,1
+Monte,Inferno,ban,2
+Monte,Mirage,ban,1
+Monte,Mirage,pick,1
+Monte,Nuke,pick,1
+Monte,Overpass,ban,1
+NRG,Anubis,ban,2
+NRG,Mirage,pick,1
+NRG,Nuke,ban,1
+NRG,Overpass,ban,1
+NRG,Train,pick,1
+Natus Vincere,Dust2,ban,1
+Natus Vincere,Inferno,ban,5
+Natus Vincere,Mirage,pick,8
+Natus Vincere,Nuke,ban,3
+Natus Vincere,Nuke,pick,1
+Natus Vincere,Overpass,ban,5
+Natus Vincere,Train,ban,2
+Natus Vincere,Vertigo,ban,2
+Nemiga,Anubis,pick,1
+Nemiga,Dust2,ban,1
+Nemiga,Nuke,ban,1
+Ninjas in Pyjamas,Ancient,pick,1
+Ninjas in Pyjamas,Dust2,ban,1
+Ninjas in Pyjamas,Inferno,ban,1
+Nouns,Nuke,ban,1
+Nouns,Overpass,ban,1
+Nouns,Vertigo,ban,1
+ODDIK,Anubis,pick,1
+ODDIK,Inferno,ban,1
+ODDIK,Mirage,ban,1
+OG,Dust2,ban,1
+OG,Mirage,ban,1
+OG,Nuke,pick,1
+PARIVISION,Ancient,pick,2
+PARIVISION,Anubis,ban,2
+PARIVISION,Cache,ban,1
+PARIVISION,Dust2,ban,1
+PARIVISION,Dust2,pick,1
+PARIVISION,Mirage,pick,1
+PARIVISION,Nuke,ban,4
+Passion UA,Ancient,ban,1
+Passion UA,Dust2,pick,1
+Passion UA,Inferno,pick,1
+Passion UA,Nuke,ban,2
+Passion UA,Vertigo,ban,1
+RED Canids,Anubis,pick,2
+RED Canids,Dust2,ban,2
+RED Canids,Inferno,ban,2
+RUBY,Inferno,ban,1
+RUBY,Mirage,ban,1
+RUBY,Vertigo,pick,1
+SAW,Ancient,pick,2
+SAW,Anubis,pick,2
+SAW,Inferno,ban,1
+SAW,Mirage,ban,4
+SAW,Nuke,ban,2
+SAW,Train,ban,1
+Sashi,Dust2,ban,1
+Sashi,Inferno,ban,1
+Sashi,Mirage,ban,1
+Spirit,Ancient,pick,1
+Spirit,Anubis,ban,1
+Spirit,Anubis,pick,2
+Spirit,Dust2,ban,1
+Spirit,Dust2,pick,2
+Spirit,Inferno,ban,8
+Spirit,Mirage,ban,1
+Spirit,Nuke,ban,2
+Spirit,Nuke,pick,2
+Spirit,Overpass,ban,1
+Spirit,Train,ban,1
+Spirit,Vertigo,ban,2
+TYLOO,Dust2,ban,1
+TYLOO,Mirage,pick,1
+TYLOO,Nuke,ban,1
+The MongolZ,Anubis,ban,3
+The MongolZ,Dust2,ban,5
+The MongolZ,Inferno,ban,1
+The MongolZ,Mirage,pick,8
+The MongolZ,Nuke,ban,2
+The MongolZ,Nuke,pick,1
+The MongolZ,Overpass,ban,4
+The MongolZ,Train,ban,7
+The MongolZ,Vertigo,ban,2
+Virtus.pro,Anubis,ban,1
+Virtus.pro,Dust2,pick,2
+Virtus.pro,Inferno,ban,1
+Virtus.pro,Mirage,pick,2
+Virtus.pro,Nuke,ban,4
+Virtus.pro,Train,ban,1
+Virtus.pro,Vertigo,ban,1
+Vitality,Ancient,ban,9
+Vitality,Anubis,ban,1
+Vitality,Anubis,pick,1
+Vitality,Dust2,ban,1
+Vitality,Dust2,pick,3
+Vitality,Inferno,pick,3
+Vitality,Mirage,ban,3
+Vitality,Mirage,pick,1
+Vitality,Nuke,ban,2
+Vitality,Nuke,pick,2
+Vitality,Overpass,pick,2
+Vitality,Train,ban,3
+Vitality,Vertigo,ban,2
+Wildcard,Ancient,ban,1
+Wildcard,Anubis,ban,1
+Wildcard,Dust2,ban,2
+Wildcard,Inferno,pick,2
+Wildcard,Mirage,ban,4
+Wildcard,Nuke,ban,1
+Wildcard,Train,ban,1
+Zero Tenacity,Ancient,ban,1
+Zero Tenacity,Nuke,pick,1
+Zero Tenacity,Vertigo,ban,1
+decider,Ancient,decider,12
+decider,Anubis,decider,8
+decider,Cache,decider,3
+decider,Dust2,decider,49
+decider,Inferno,decider,45
+decider,Mirage,decider,41
+decider,Nuke,decider,57
+decider,Overpass,decider,13
+decider,Train,decider,6
+decider,Vertigo,decider,9
+ex-Anonymo,Ancient,ban,1
+ex-Anonymo,Mirage,ban,1
+ex-Anonymo,Vertigo,ban,1
+fnatic,Mirage,ban,1
+fnatic,Nuke,ban,1
+fnatic,Vertigo,ban,1
+paiN,Ancient,ban,1
+paiN,Anubis,ban,2
+paiN,Dust2,ban,2
+paiN,Inferno,ban,4
+paiN,Inferno,pick,2
+paiN,Mirage,pick,1
+paiN,Nuke,ban,1
+paiN,Nuke,pick,3
+paiN,Overpass,ban,2
+paiN,Train,ban,5
+paiN,Vertigo,pick,1
